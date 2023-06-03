@@ -7,13 +7,12 @@
 [Тык, чтобы открыть рабочий билд](https://gitaristium.github.io/green-api/)
 
 ### Десктопная версия
-
-![](https://github.com/Gitaristium/green-api/blob/main/src/images/github/screenshot-desktop.png)
+![](https://github.com/Gitaristium/green-api/blob/main/src/images/screenshot-desktop.png?raw=true)
 
 ### Мобильная версия
 
 \
-<img src="https://github.com/Gitaristium/green-api/blob/main/src/images/github/screenshot-mobile.png" width=300/>
+<img src="https://github.com/Gitaristium/green-api/blob/main/src/images/screenshot-mobile.png?raw=true" width=300/>
 
 ## Доступные команды
 
@@ -27,11 +26,6 @@
 
 Запускает приложение в режиме разработки.\
 Откройте [http://localhost:3000](http://localhost:3000) для просмотра в браузере.
-
-##### `npm test`
-
-Запускает программу запуска тестов в режиме интерактивного просмотра.\
-Более подробную информацию смотрите в разделе о [запуске тестов](https://facebook.github.io/create-react-app/docs/running-tests).
 
 ##### `npm run build`
 

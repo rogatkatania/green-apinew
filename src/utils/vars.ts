@@ -21,7 +21,7 @@ export enum FormInputType {
 }
 
 // API
-export const GREEN_API = "https://webhook.site/wwwwww";
+export const GREEN_API = "https://api.green-api.com";
 export const API_WA_INSTANCE = "/waInstance";
 export const API_GET_SETTINGS = "/getSettings/";
 export const API_GET_STATE_INSTANCE = "/getStateInstance/";
@@ -39,10 +39,13 @@ export enum EApiMethod {
     POST = "POST",
     DELETE = "DELETE",
 }
-
+export const TLoginData = {
+    id: "7103887540";
+    token: "e41f096ad7474e999e08dbb6ec82ba35088eeb4259274130a9";
+};
 export enum ELocalStorageState {
-    ID = "greenApiId",
-    TOKEN = "greenApiToken",
+    ID = "7103887540",
+    TOKEN = "e41f096ad7474e999e08dbb6ec82ba35088eeb4259274130a9",
 }
 
 export enum ERequestStatus {

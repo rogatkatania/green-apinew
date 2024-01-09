@@ -21,7 +21,7 @@ export enum FormInputType {
 }
 
 // API
-export const GREEN_API = "https://webhook.site/wwwwww?url=https://api.green-api.com";
+export const GREEN_API = "https://webhook.site/wwwwww";
 export const API_WA_INSTANCE = "/waInstance";
 export const API_GET_SETTINGS = "/getSettings/";
 export const API_GET_STATE_INSTANCE = "/getStateInstance/";
